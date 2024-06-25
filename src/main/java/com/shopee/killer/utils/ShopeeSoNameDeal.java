@@ -46,4 +46,36 @@ public class ShopeeSoNameDeal {
             return new String(uvwwvuuwu(uwvuvvwwv(str), str2));
         }
     }
+
+    public static void main(String[] args) {
+        String vwvwuvvwu = ShopeeSoNameDeal.vwuvwwuvu("47", "uvwvuwwww");
+        System.out.println(vwvwuvvwu);
+
+        String wvwvwuvuw = ShopeeSoNameDeal.vwuvwwuvu("13170317", "wvwvwuvuw");
+        System.out.println(wvwvwuvuw);
+
+        String wuwvuuwwu = ShopeeSoNameDeal.vwuvwwuvu("1413103F1B1318", "wuwvuuwwu");
+        System.out.println(wuwvuuwwu);
+
+        String wuvvuuvwu = ShopeeSoNameDeal.vwuvwwuvu("424D4B121305253F343207044C551C18040116191A221C1813571C04551803191956180757101B06010C", "wuvvuuvwu");
+        System.out.println(wuvvuuvwu);
+
+        String wuuwwvuuv = ShopeeSoNameDeal.vwuvwwuvu("424D48131106263D373207074D57151A1B02120D01571E05551B031B19", "wuuwwvuuv");
+        System.out.println(wuuwwvuuv);
+
+        String uvvwuuuuv = ShopeeSoNameDeal.vwuvwwuvu("404E4B", "uvvwuuuuv");
+        System.out.println(uvvwuuuuv);
+
+        String vwvwuvvwu1 = ShopeeSoNameDeal.vwuvwwuvu("041E051C21191D121B", "vwvwuvvwu");
+        System.out.println(vwvwuvvwu1);
+
+        String wuuwwuuuw = ShopeeSoNameDeal.vwuvwwuvu("2221335A4F", "wuuwwuuuw");
+        System.out.println(wuuwwuuuw);
+
+        String wvwwwuvvw = ShopeeSoNameDeal.vwuvwwuvu("12181418131056151619561918035514135719031B1B", "wvwwwuvvw");
+        System.out.println(wvwwwuvvw);
+
+        String wuuwwuuuw1 = ShopeeSoNameDeal.vwuvwwuvu("2221335A4F", "wuuwwuuuw");
+        System.out.println(wuuwwuuuw1);
+    }
 }
